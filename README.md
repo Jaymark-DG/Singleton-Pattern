@@ -11,3 +11,6 @@ In your solution you must provide the following in your Github link account:
 * Problem statement (description of the problem. Just copy what is stated here).
 * UML Class Diagram
 * Uploaded java codes for the solution.
+
+## UML Class Diagram
+<img width="730" height="746" alt="Blank diagram" src="https://github.com/user-attachments/assets/4e85d105-15a7-4856-9b88-da4140499195" />
